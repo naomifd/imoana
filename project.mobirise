@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IMOANA",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -155,13 +155,13 @@
             }
           },
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "buttonAlign": "right",
             "showArrow": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1457972703743-4a6585c42ed8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tavola-da-disegno-1-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -171,12 +171,12 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "Green <br>is the new <br>Black&nbsp;<br>collection",
-          "text": "Discover it in the best italian shop&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "title": "Green <br>is the new <br>Black&nbsp;<br>",
+          "text": "Scopri il progetto completo su",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">kickstarter </a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
