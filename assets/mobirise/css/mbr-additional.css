@@ -869,42 +869,9 @@ blockquote {
 #footer2-1u .mbr-section-text {
   color: #fff;
 }
-#shop1-2c .galleryItem h4:hover {
-  color: #bbbbbb;
-}
-#shop1-2c .mbr-gallery-filter ul li.active {
-  color: #bbbbbb;
-}
-#shop1-2c .mbr-gallery-filter ul li:hover {
-  color: #bbbbbb;
-}
-#shop1-2c .mbr-gallery-filter ul li:before {
-  background: #bbbbbb;
-}
-#shop1-2c .min-toggle:hover,
-#shop1-2c .max-toggle:hover {
-  background-color: #bbbbbb;
-}
-#shop1-2c .shop-title {
-  font-family: Arvo;
-}
-#shop1-2c .categories-titles .mbr-gallery-filter ul li {
-  font-family: Arvo;
-}
-#shop1-2c .max-input {
-  font-family: Arvo;
-}
-#shop1-2c .min-input {
-  font-family: Arvo;
-}
-#shop1-2c .item-title {
-  font-family: Arvo;
-}
-#shop1-2c .card-description {
-  font-family: Open Sans;
-}
-#shop1-2c .shop-item-price {
-  font-family: Montserrat;
+#content3-2g .mbr-section-title,
+#content3-2g .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-1v .hide-buttons .nav-btn {
   display: none !important;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IMOANA",
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -32,7 +32,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "undefined",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 87,
+    "uniqCompNum": 89,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -338,135 +338,23 @@
         },
         {
           "_styles": {
-            ".galleryItem h4:hover": {
-              "color": "@primaryColor"
-            },
-            ".mbr-gallery-filter ul li.active": {
-              "color": "@primaryColor"
-            },
-            ".mbr-gallery-filter ul li:hover": {
-              "color": "@primaryColor"
-            },
-            ".mbr-gallery-filter ul li:before": {
-              "background": "@primaryColor"
-            },
-            ".min-toggle:hover, .max-toggle:hover": {
-              "background-color": "@primaryColor"
-            },
-            ".shop-title": {
-              "font-family": "@titleFont"
-            },
-            ".categories-titles .mbr-gallery-filter ul li": {
-              "font-family": "@titleFont"
-            },
-            ".max-input": {
-              "font-family": "@titleFont"
-            },
-            ".min-input": {
-              "font-family": "@titleFont"
-            },
-            ".item-title": {
-              "font-family": "@titleFont"
-            },
-            ".card-description": {
-              "font-family": "@textFont"
-            },
-            ".shop-item-price": {
-              "font-family": "@subtitleFont"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showSidebar": false,
-            "showSortButtons": true,
-            "showBestSellers": false,
-            "priceRange": false,
-            "filter": false,
-            "showStars": false,
-            "paddingTop": "6",
-            "paddingBottom": "6",
-            "bgColor": "#f5f5f5",
-            "filterBgColor": false,
-            "fontHoverColor": "@primaryColor",
-            "mainTitle": "@titleFont",
-            "mainSubTitle": "@subtitleFont",
-            "mainText": "@textFont",
-            "images": [
-              {
-                "tags": "Awesome",
-                "image": "@PROJECT_PATH@/assets/images/shop1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shop1.jpg",
-                "starsImg": "@PROJECT_PATH@/assets/images/4.png",
-                "stars": "@PROJECT_PATH@/assets/images/4.png",
-                "bestSeller": true,
-                "itemTitle": "Flying Cowboy Hat",
-                "itemSubtitle": "could be your best friend",
-                "itemDescription": "Beware! It can fly away. We make no guarantees.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>367DDF5p</b>",
-                "itemPriceTitle": "From: ",
-                "itemPrice": "$36.00",
-                "onsale": "SALE 50% OFF",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Wonderful",
-                "bestSeller": false,
-                "itemTitle": "Fast Carbs",
-                "itemSubtitle": "your energy dose",
-                "itemDescription": "There are contraindications.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34567F5p</b>",
-                "itemPriceTitle": "From: ",
-                "itemPrice": "$25.50",
-                "onsale": "SALE 50% OFF",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
-                "image": "@PROJECT_PATH@/assets/images/shop2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shop2.jpg",
-                "starsImg": "@PROJECT_PATH@/assets/images/2.png",
-                "stars": "@PROJECT_PATH@/assets/images/2.png",
-                "caption": "Type caption here",
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Creative",
-                "bestSeller": false,
-                "itemTitle": "Bicycle",
-                "itemSubtitle": "for freedom",
-                "itemDescription": "Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3476DF5p</b>",
-                "itemPriceTitle": "From: ",
-                "itemPrice": "$60.00",
-                "onsale": "SALE 50% OFF",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary btn-primary-outline\">Buy now!</a>",
-                "image": "@PROJECT_PATH@/assets/images/shop3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shop3.jpg",
-                "starsImg": "@PROJECT_PATH@/assets/images/3.png",
-                "stars": "@PROJECT_PATH@/assets/images/3.png",
-                "caption": "Type caption here",
-                "alt": "",
-                "title": "",
-                "active": true
-              }
-            ]
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#fff"
           },
-          "articleLayout": false,
-          "title": "Natural is the new black",
-          "filter_by_pu": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
-          "filter_by_pd": "<a data-app-btn=\"true\" class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
-          "filter_by_d": "<a data-app-btn=\"true\" class=\"btn btn-primary\">Default sorting</a>",
-          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
-          "price_range_reset": "<a class=\"btn btn-secondary showAll\">Show all</a>",
-          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
-          "allItem": "All",
-          "sidebar1": "Best Sellers",
-          "sidebar2": "Filter by price",
-          "sidebar3": "Product Categories",
+          "title": "In arrivo",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Tema"
           ],
-          "_name": "shop1",
-          "_anchor": "shop1-2c"
+          "_name": "content3",
+          "_anchor": "content3-2g"
         }
       ]
     },
