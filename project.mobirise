@@ -161,7 +161,7 @@
             "buttonAlign": "right",
             "showArrow": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tavola-da-disegno-1-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/tavola-da-disegno-1-copia-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
