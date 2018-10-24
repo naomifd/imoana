@@ -773,7 +773,7 @@
           "_params": {
             "showImages": true,
             "showNumber": false,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
